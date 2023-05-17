@@ -10,6 +10,8 @@ Project 1: Bike Sales Excel Project
 
 Project 2: Multi-centre Study Data Harzonization and Visualization Project
 
+Project 3: Data Exploration with COVID-19 Data
+
 
 # Tools Used
 The projects in this repository were created using the following tools:
@@ -20,7 +22,9 @@ Jupyter Notebook
 
 Excel
 
+Microsoft SQL Server Management Studio 19
+
 
 # Contact
 
-If you have any questions or comments about the projects in this repository, please feel free to contact me at abdullahihassanmoh@gmail.com
+If you have any questions or comments about the projects in this repository, please feel free to contact me at abdullahihassanmoh@gmail.com or at linkedin.com/in/abdullahihm. 
