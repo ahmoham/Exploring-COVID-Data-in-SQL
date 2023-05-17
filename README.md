@@ -1,7 +1,7 @@
 # PorfolioProjects
 Welcome to my PortfolioProjects repository! 
 
-This repository contains all of my projects that showcase my data analysis skills using Python and Excel.
+This repository contains all of my projects that showcase my data analysis skills using SQL, Python, and Excel.
 
 # Project List
 Here is a list of the projects included in this repository:
