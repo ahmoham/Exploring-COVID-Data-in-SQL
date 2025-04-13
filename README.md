@@ -155,17 +155,17 @@ where dea.continent is not null
 This query creates a view to store data on vaccination progress, which can be used for future analysis or visualizations.
 
 ## Tools and Techniques Used
-- Joins: Combining data from the covid_deaths and covid_vaccinations tables.
-- CTEs: For organizing and simplifying complex queries, especially for cumulative calculations.
-- Temporary Tables: Used for storing intermediate results.
-- Windows Functions: For calculating rolling counts of vaccinations and other aggregates.
-- Aggregate Functions: SUM, MAX, etc., for calculating totals and other aggregate metrics.
-- Data Type Conversions: Ensuring numeric values are cast appropriately for calculations.
+- **Joins**: Combining data from the covid_deaths and covid_vaccinations tables.
+- **CTEs**: For organizing and simplifying complex queries, especially for cumulative calculations.
+- **Temporary Tables**: Used for storing intermediate results.
+- **Windows Functions**: For calculating rolling counts of vaccinations and other aggregates.
+- **Aggregate Functions**: SUM, MAX, etc., for calculating totals and other aggregate metrics.
+- **Data Type Conversions**: Ensuring numeric values are cast appropriately for calculations.
 
 ## Insights and Analysis
-- Death Percentage: For countries like Canada, the death percentage helps assess the severity of the pandemic.
-- Infection Rate: By comparing total cases to the population, we can identify how widespread COVID-19 is in each country.
-- Vaccination Progress: Using cumulative vaccination data, the project tracks how many people in each country have received a COVID-19 vaccine.
+- **Death Percentage**: For countries like Canada, the death percentage helps assess the severity of the pandemic.
+- **Infection Rate**: By comparing total cases to the population, we can identify how widespread COVID-19 is in each country.
+- **Vaccination Progress**: Using cumulative vaccination data, the project tracks how many people in each country have received a COVID-19 vaccine.
 
 ## Conclusion
 This project provides an in-depth analysis of COVID-19's impact, focusing on case fatality rates, infection rates, and vaccination progress. The queries used leverage advanced SQL techniques like window functions, CTEs, and aggregate functions to provide a clear picture of the pandemic’s effects across the globe.
